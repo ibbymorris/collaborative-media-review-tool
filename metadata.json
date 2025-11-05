@@ -1,0 +1,5 @@
+{
+  "name": "Collaborative Media Review Tool",
+  "description": "A web application for teams to review, annotate, and comment on image and video assets across different versions. Features drawing tools, threaded comments, and a team chat.",
+  "requestFramePermissions": []
+}
